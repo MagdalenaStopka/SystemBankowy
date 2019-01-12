@@ -1,0 +1,6 @@
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\bin\Debug\Bank.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\bin\Debug\Bank.pdb
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\obj\Debug\Bank.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\Bank\obj\Debug\Bank.pdb

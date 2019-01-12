@@ -1,0 +1,16 @@
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\UnitTestProjectBank.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\UnitTestProjectBank.pdb
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Bank.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Bank.pdb
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\obj\Debug\UnitTestProjectBank.csprojResolveAssemblyReference.cache
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\obj\Debug\UnitTestProjectBank.csproj.CoreCompileInputs.cache
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\obj\Debug\UnitTestProjectBank.csproj.CopyComplete
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\obj\Debug\UnitTestProjectBank.dll
+D:\Users\a.strzelczyk\Desktop\SystemBankowy\SystemBankowy\UnitTestProjectBank\obj\Debug\UnitTestProjectBank.pdb
